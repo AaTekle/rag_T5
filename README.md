@@ -287,7 +287,6 @@ which allows efficient FAISS retrieval.
 * Fast retrieval
 * No model retraining
 * Simple architecture
-* Easily extensible
 
 ---
 ##  Run Locally & Screenshots (Ouputs of RAG)
