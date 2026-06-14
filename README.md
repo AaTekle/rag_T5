@@ -1,7 +1,5 @@
 # Retrieval-Augmented Generation (RAG) with Hugging Face, Sentence Transformers, and FAISS
 
-# Overview
-
 Lightweight Retrieval-Augmented Generation (RAG) model using:
 
 * Hugging Face Datasets
