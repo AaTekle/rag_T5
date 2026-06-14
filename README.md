@@ -203,10 +203,10 @@ Where:
 
 * $A$ = Query vector (the user's search or input)
 * $B$ = Document vector (stored content being compared)
-* $A·B$ = Dot product of vectors `A` and `B`. Measures how aligned the vectors are.
-* $cos$ = Cosine function. Produces a similarity score between `-1` and `1`.
+* $A·B$ = Dot product of vectors $A$ and $B$. Measures how aligned the vectors are.
+* $cos$ = Cosine function. Produces a similarity score between -1 and 1.
 * $θ$ (theta) = The angle between two vectors. Smaller angles mean higher similarity.
-*  $|A||B|$ = Product of the magnitudes of `A` and `B`. Used to normalize the score.
+*  $|A||B|$ = Product of the magnitudes of $A$ and $B$. Used to normalize the score.
 
 
 
